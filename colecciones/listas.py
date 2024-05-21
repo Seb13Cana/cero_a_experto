@@ -58,3 +58,11 @@ print(numeros)
 #insertar elementos en el indice deseado
 numeros.insert(4,66)
 print(numeros)
+#eliminar por indice
+del numeros[3] #Elimina elemento por el indice
+
+#Eliminar losta, lo qie se hace es vaciar la lista
+
+numeros[:] = []
+
+del numeros #Elimina la variable de la lista
