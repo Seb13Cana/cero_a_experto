@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a73af51d-21d0-4c83-9a6a-1aa9095b1c68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/colecciones/diccionarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colecciones/listas_diccionarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colecciones/set_conjunto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colecciones/tuplas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funciones/argumentos_por_nombre.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funciones/argumentos_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funciones/funciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funciones/modulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funciones/regresar_varios_valores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos/maquina_de_snacks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colecciones/listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/colecciones/listas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.argumentos_por_nombre.executor": "Run",
+    "Python.argumentos_variables.executor": "Run",
     "Python.cadenas.executor": "Run",
     "Python.cajero_automatico.executor": "Run",
     "Python.ciclo_for.executor": "Run",
@@ -45,8 +48,11 @@
     "Python.diccionarios.executor": "Run",
     "Python.entrada_datos.executor": "Run",
     "Python.formato_cadenas.executor": "Run",
+    "Python.funciones.executor": "Run",
     "Python.generador_unico.executor": "Run",
     "Python.listas.executor": "Run",
+    "Python.listas_diccionarios.executor": "Run",
+    "Python.maquina_de_snacks.executor": "Run",
     "Python.menu_interactivo_while.executor": "Run",
     "Python.metodos_cadenas.executor": "Run",
     "Python.operador_and.executor": "Run",
@@ -54,6 +60,7 @@
     "Python.operadores.executor": "Run",
     "Python.operadores_asisgnacion.executor": "Run",
     "Python.operadores_comparacion.executor": "Run",
+    "Python.regresar_varios_valores.executor": "Run",
     "Python.sentencia_if_else.executor": "Run",
     "Python.set_conjunto.executor": "Run",
     "Python.sub_cadenas.executor": "Run",
@@ -62,8 +69,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.listas_diccionarios">
-    <configuration name="diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.maquina_de_snacks">
+    <configuration name="argumentos_por_nombre" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cero_a_experto" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/colecciones" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funciones" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colecciones/diccionarios.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funciones/argumentos_por_nombre.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="argumentos_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cero_a_experto" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/colecciones" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funciones" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colecciones/listas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funciones/argumentos_variables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listas_diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="funciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cero_a_experto" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/colecciones" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funciones" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colecciones/listas_diccionarios.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funciones/funciones.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set_conjunto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="maquina_de_snacks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cero_a_experto" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/colecciones" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proyectos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colecciones/set_conjunto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proyectos/maquina_de_snacks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="regresar_varios_valores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cero_a_experto" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/colecciones" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funciones" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colecciones/tuplas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funciones/regresar_varios_valores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.listas_diccionarios" />
-        <item itemvalue="Python.diccionarios" />
-        <item itemvalue="Python.set_conjunto" />
-        <item itemvalue="Python.tuplas" />
-        <item itemvalue="Python.listas" />
+        <item itemvalue="Python.maquina_de_snacks" />
+        <item itemvalue="Python.argumentos_variables" />
+        <item itemvalue="Python.regresar_varios_valores" />
+        <item itemvalue="Python.argumentos_por_nombre" />
+        <item itemvalue="Python.funciones" />
       </list>
     </recent_temporary>
   </component>
