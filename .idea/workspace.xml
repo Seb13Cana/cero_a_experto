@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a73af51d-21d0-4c83-9a6a-1aa9095b1c68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/clasesYobjetos/clases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proyectos/calculadora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clasesYobjetos/atributos_clase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clasesYobjetos/ejemplo_atributo_persona.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clasesYobjetos/clases.py" beforeDir="false" afterPath="$PROJECT_DIR$/clasesYobjetos/clases.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
   "keyToString": {
     "Python.argumentos_por_nombre.executor": "Run",
     "Python.argumentos_variables.executor": "Run",
+    "Python.atributos_clase.executor": "Run",
     "Python.cadenas.executor": "Run",
     "Python.cajero_automatico.executor": "Run",
     "Python.calculadora.executor": "Run",
@@ -44,6 +46,7 @@
     "Python.ciclo_while.executor": "Run",
     "Python.clases.executor": "Run",
     "Python.diccionarios.executor": "Run",
+    "Python.ejemplo_atributo_persona.executor": "Run",
     "Python.entrada_datos.executor": "Run",
     "Python.formato_cadenas.executor": "Run",
     "Python.funciones.executor": "Run",
@@ -67,8 +70,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.clases">
-    <configuration name="argumentos_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ejemplo_atributo_persona">
+    <configuration name="atributos_clase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cero_a_experto" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funciones" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clasesYobjetos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funciones/argumentos_variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clasesYobjetos/atributos_clase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,6 +137,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ejemplo_atributo_persona" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cero_a_experto" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clasesYobjetos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clasesYobjetos/ejemplo_atributo_persona.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="maquina_de_snacks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cero_a_experto" />
       <option name="ENV_FILES" value="" />
@@ -156,35 +181,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regresar_varios_valores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cero_a_experto" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funciones" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funciones/regresar_varios_valores.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ejemplo_atributo_persona" />
+        <item itemvalue="Python.atributos_clase" />
         <item itemvalue="Python.clases" />
         <item itemvalue="Python.calculadora" />
         <item itemvalue="Python.maquina_de_snacks" />
-        <item itemvalue="Python.argumentos_variables" />
-        <item itemvalue="Python.regresar_varios_valores" />
       </list>
     </recent_temporary>
   </component>
