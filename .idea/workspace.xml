@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a73af51d-21d0-4c83-9a6a-1aa9095b1c68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/clasesYobjetos/atributos_clase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clasesYobjetos/ejemplo_atributo_persona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clasesYobjetos/clasesAnimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clasesYobjetos/object_sobreescritura.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clasesYobjetos/polimorfismo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clasesYobjetos/clases.py" beforeDir="false" afterPath="$PROJECT_DIR$/clasesYobjetos/clases.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,43 +34,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.argumentos_por_nombre.executor": "Run",
-    "Python.argumentos_variables.executor": "Run",
-    "Python.atributos_clase.executor": "Run",
-    "Python.cadenas.executor": "Run",
-    "Python.cajero_automatico.executor": "Run",
-    "Python.calculadora.executor": "Run",
-    "Python.ciclo_for.executor": "Run",
-    "Python.ciclo_while.executor": "Run",
-    "Python.clases.executor": "Run",
-    "Python.diccionarios.executor": "Run",
-    "Python.ejemplo_atributo_persona.executor": "Run",
-    "Python.entrada_datos.executor": "Run",
-    "Python.formato_cadenas.executor": "Run",
-    "Python.funciones.executor": "Run",
-    "Python.generador_unico.executor": "Run",
-    "Python.listas.executor": "Run",
-    "Python.listas_diccionarios.executor": "Run",
-    "Python.maquina_de_snacks.executor": "Run",
-    "Python.menu_interactivo_while.executor": "Run",
-    "Python.metodos_cadenas.executor": "Run",
-    "Python.operador_and.executor": "Run",
-    "Python.operador_de_asignacion_com´puesto.executor": "Run",
-    "Python.operadores.executor": "Run",
-    "Python.operadores_asisgnacion.executor": "Run",
-    "Python.operadores_comparacion.executor": "Run",
-    "Python.regresar_varios_valores.executor": "Run",
-    "Python.sentencia_if_else.executor": "Run",
-    "Python.set_conjunto.executor": "Run",
-    "Python.sub_cadenas.executor": "Run",
-    "Python.tuplas.executor": "Run",
-    "Python.valor_positivo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.argumentos_por_nombre.executor&quot;: &quot;Run&quot;,
+    &quot;Python.argumentos_variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atributos_clase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cadenas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cajero_automatico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculadora.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ciclo_for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ciclo_while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clases.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clasesAnimal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diccionarios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejemplo_atributo_persona.executor&quot;: &quot;Run&quot;,
+    &quot;Python.entrada_datos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.formato_cadenas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generador_unico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listas_diccionarios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maquina_de_snacks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.menu_interactivo_while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.metodos_cadenas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.object_sobreescritura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operador_and.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operador_de_asignacion_com´puesto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operadores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operadores_asisgnacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operadores_comparacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polimorfismo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regresar_varios_valores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sentencia_if_else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set_conjunto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sub_cadenas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuplas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.valor_positivo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.ejemplo_atributo_persona">
+}</component>
+  <component name="RunManager" selected="Python.object_sobreescritura">
     <configuration name="atributos_clase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cero_a_experto" />
       <option name="ENV_FILES" value="" />
@@ -93,29 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculadora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cero_a_experto" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proyectos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proyectos/calculadora.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="clases" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="clasesAnimal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cero_a_experto" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clasesYobjetos/clases.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clasesYobjetos/clasesAnimal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maquina_de_snacks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="object_sobreescritura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cero_a_experto" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,11 +149,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proyectos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clasesYobjetos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proyectos/maquina_de_snacks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clasesYobjetos/object_sobreescritura.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="polimorfismo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cero_a_experto" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clasesYobjetos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clasesYobjetos/polimorfismo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.object_sobreescritura" />
+        <item itemvalue="Python.polimorfismo" />
+        <item itemvalue="Python.clasesAnimal" />
         <item itemvalue="Python.ejemplo_atributo_persona" />
         <item itemvalue="Python.atributos_clase" />
-        <item itemvalue="Python.clases" />
-        <item itemvalue="Python.calculadora" />
-        <item itemvalue="Python.maquina_de_snacks" />
       </list>
     </recent_temporary>
   </component>
