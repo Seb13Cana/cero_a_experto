@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a73af51d-21d0-4c83-9a6a-1aa9095b1c68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/clasesYobjetos/clasesAnimal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clasesYobjetos/object_sobreescritura.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clasesYobjetos/polimorfismo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos/prueba_snack_POO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos/snack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyectos/snacks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,38 +64,18 @@
     &quot;Python.operadores_asisgnacion.executor&quot;: &quot;Run&quot;,
     &quot;Python.operadores_comparacion.executor&quot;: &quot;Run&quot;,
     &quot;Python.polimorfismo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prueba_snack_POO.executor&quot;: &quot;Run&quot;,
     &quot;Python.regresar_varios_valores.executor&quot;: &quot;Run&quot;,
     &quot;Python.sentencia_if_else.executor&quot;: &quot;Run&quot;,
     &quot;Python.set_conjunto.executor&quot;: &quot;Run&quot;,
     &quot;Python.sub_cadenas.executor&quot;: &quot;Run&quot;,
     &quot;Python.tuplas.executor&quot;: &quot;Run&quot;,
     &quot;Python.valor_positivo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/Documents/pythonPath/cero_a_experto&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.object_sobreescritura">
-    <configuration name="atributos_clase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cero_a_experto" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clasesYobjetos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clasesYobjetos/atributos_clase.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.prueba_snack_POO">
     <configuration name="clasesAnimal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cero_a_experto" />
       <option name="ENV_FILES" value="" />
@@ -184,13 +164,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="prueba_snack_POO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cero_a_experto" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proyectos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proyectos/prueba_snack_POO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.prueba_snack_POO" />
         <item itemvalue="Python.object_sobreescritura" />
         <item itemvalue="Python.polimorfismo" />
         <item itemvalue="Python.clasesAnimal" />
         <item itemvalue="Python.ejemplo_atributo_persona" />
-        <item itemvalue="Python.atributos_clase" />
       </list>
     </recent_temporary>
   </component>
